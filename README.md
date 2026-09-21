@@ -1,4 +1,4 @@
-# Proyecto_final_TM
+# Proyecto_final
 
 # Text Mining & Image Recognition — Proyecto Final
 Ingrid Carolina Ortíz Mejicanos - 13135140 
